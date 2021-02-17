@@ -1,0 +1,28 @@
+.myContact{
+   background-color: azure;
+}
+
+.myChat {
+    background-image: url("../../../assets/images/back2.jpg");
+    background-size: cover;
+}
+.myGrid {
+    height: 100vh;
+}
+
+.sendButton {
+    bottom: 8%;
+    position: fixed;
+    width: 67%;
+    padding: 0% !important;
+}
+.tCenter {
+    text-align: center;
+}
+
+.contactText {
+    background-color: burlywood !important;
+}
+.myText {
+    background-color: cornsilk !important;
+}
