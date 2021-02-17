@@ -1,4 +1,4 @@
-## Minimal React and Webpack 4 boilerplate with babel 
+## Chatting App Challange for Cognite 
 
 
 > Basic React App with webpack(Boilerplate) using latest version of react and babel as well as jest and enzyme for more details about technologies used. [click](#technologies-used)
